@@ -5,7 +5,7 @@ This is the repo of me trying to do advent of code 2023 using kotlin.
 ## Roadmap
 - [x] Day 1: Trebuchet
 - [x] Day 2: CubeConundrum
-- [ ] Day 3
+- [x] Day 3: Gear Ratios
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6
