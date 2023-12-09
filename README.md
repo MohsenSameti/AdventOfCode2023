@@ -6,7 +6,7 @@ This is the repo of me trying to do advent of code 2023 using kotlin.
 - [x] Day 1: Trebuchet
 - [x] Day 2: CubeConundrum
 - [x] Day 3: Gear Ratios
-- [ ] Day 4
+- [x] Day 4: Scratchcards
 - [ ] Day 5
 - [ ] Day 6
 - [ ] Day 7
